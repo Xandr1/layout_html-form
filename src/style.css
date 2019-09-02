@@ -9,3 +9,7 @@ fieldset {
 label + label {
   margin-top: 10px;
 }
+
+.inline-items {
+  display: inline;
+}
